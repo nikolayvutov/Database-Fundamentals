@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_EntityRalations.759668768.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="EntityRalations.sln" t="IncludeFlat" />
+      <e p="P01_StudentSystem" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="P01_StudentSystem.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="P01_StudentSystem.csproj" t="IncludeRecursive" />
+        <e p="StartUp.cs" t="Include" />
+      </e>
+      <e p="P01_StudentSystem.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration.cs" t="Include" />
+        <e p="EntityConfiguration" t="Include">
+          <e p="CourseConfig.cs" t="Include" />
+          <e p="HomeworkConfig.cs" t="Include" />
+          <e p="ResourceConfig.cs" t="Include" />
+          <e p="StudentConfig.cs" t="Include" />
+          <e p="StudentCourseConfig.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="P01_StudentSystem.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="P01_StudentSystem.Data.csproj" t="IncludeRecursive" />
+        <e p="StudentSystemContext.cs" t="Include" />
+      </e>
+      <e p="P01_StudentSystem.Data.Models" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ContentType.cs" t="Include" />
+        <e p="Course.cs" t="Include" />
+        <e p="Homework.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="P01_StudentSystem.Data.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="P01_StudentSystem.Data.Models.csproj" t="IncludeRecursive" />
+        <e p="Resource.cs" t="Include" />
+        <e p="ResourceType.cs" t="Include" />
+        <e p="Student.cs" t="Include" />
+        <e p="StudentCourse.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

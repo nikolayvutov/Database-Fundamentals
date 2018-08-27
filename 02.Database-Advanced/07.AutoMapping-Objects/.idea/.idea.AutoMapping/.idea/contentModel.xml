@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_AutoMapping.-1181835346.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AutoMapping.sln" t="IncludeFlat" />
+      <e p="EmployeesMapping" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Core" t="Include">
+          <e p="CommandInterpreter.cs" t="Include" />
+          <e p="Commands" t="Include">
+            <e p="AddEmployeeCommand.cs" t="Include" />
+            <e p="EmployeeInfoCommand.cs" t="Include" />
+            <e p="EmployeePersonalInfoCommand.cs" t="Include" />
+            <e p="ExitCommand.cs" t="Include" />
+            <e p="ManagerInfoCommand.cs" t="Include" />
+            <e p="SetAddressCommand.cs" t="Include" />
+            <e p="SetBirthdayCommand.cs" t="Include" />
+            <e p="SetManagerCommand.cs" t="Include" />
+          </e>
+          <e p="Contracts" t="Include">
+            <e p="ICommand.cs" t="Include" />
+            <e p="ICommandInterpreter.cs" t="Include" />
+            <e p="IEmployeeController.cs" t="Include" />
+            <e p="IEngine.cs" t="Include" />
+            <e p="IManagerController.cs" t="Include" />
+          </e>
+          <e p="Controlers" t="Include">
+            <e p="EmployeeController.cs" t="Include" />
+            <e p="ManagerController.cs" t="Include" />
+          </e>
+          <e p="Dtos" t="Include">
+            <e p="EmployeeDto.cs" t="Include" />
+            <e p="EmployeePersonalInfoDto.cs" t="Include" />
+            <e p="ManagerDto.cs" t="Include" />
+          </e>
+          <e p="EmployeeProfile.cs" t="Include" />
+          <e p="Engine.cs" t="Include" />
+        </e>
+        <e p="EmployeesMapping.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="EmployeesMapping.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="StartUp.cs" t="Include" />
+      </e>
+      <e p="EmployeesMapping.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration.cs" t="Include" />
+        <e p="EmployeeContext.cs" t="Include" />
+        <e p="EmployeeDto.cs" t="Include" />
+        <e p="EmployeesMapping.Data.csproj" t="IncludeRecursive" />
+        <e p="IEmployeeDto.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="EmployeesMapping.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="EmployeesMapping.Models" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Employee.cs" t="Include" />
+        <e p="EmployeesMapping.Models.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="EmployeesMapping.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="EmployeesMapping.Services" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contracts" t="Include">
+          <e p="IDbInitializerService.cs" t="Include" />
+        </e>
+        <e p="DbInitializerService.cs" t="Include" />
+        <e p="EmployeesMapping.Services.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="EmployeesMapping.Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

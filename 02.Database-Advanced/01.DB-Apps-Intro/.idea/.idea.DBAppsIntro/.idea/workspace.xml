@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0bb26a1-2199-408a-afd5-e390cd64b0e7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="MinionsDB: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="MinionsDB: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e13f78b8-f80e-46e6-a405-92b0d0df925b/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/InitialSetup/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PrintAllMinionNames/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IncreaseMinionsAge/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RemoveVillain/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IncreaseAgeStoredProc/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChangeTownNameCasing/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/InitialSetup/Configuration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VillainNames/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddMinion/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MinionNames/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a495beb2-c758-4511-9318-eeb8e997f62e/console.sql" />
+        <option value="$PROJECT_DIR$/InitialSetup/Configuration.cs" />
+        <option value="$PROJECT_DIR$/InitialSetup/Program.cs" />
+        <option value="$PROJECT_DIR$/VillainNames/Program.cs" />
+        <option value="$PROJECT_DIR$/MinionNames/Program.cs" />
+        <option value="$PROJECT_DIR$/AddMinion/Program.cs" />
+        <option value="$PROJECT_DIR$/ChangeTownNameCasing/Program.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e13f78b8-f80e-46e6-a405-92b0d0df925b/console.sql" />
+        <option value="$PROJECT_DIR$/PrintAllMinionNames/Program.cs" />
+        <option value="$PROJECT_DIR$/IncreaseMinionsAge/Program.cs" />
+        <option value="$PROJECT_DIR$/IncreaseAgeStoredProc/Program.cs" />
+        <option value="$PROJECT_DIR$/RemoveVillain/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="685" />
+    <option name="y" value="23" />
+    <option name="width" value="994" />
+    <option name="height" value="979" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DBAppsIntro (9 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+    <property name="SearchEverywhereHistoryKey" value="console&#9;null&#9;null&#10;conso&#9;null&#9;null&#10;data&#9;ACTION&#9;ActivateDatabaseToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (jTds)" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.ChangeTownNameCasing">
+    <configuration name="AddMinion" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AddMinion/bin/Debug/netcoreapp2.0/AddMinion.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AddMinion" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AddMinion/AddMinion.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="ChangeTownNameCasing" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ChangeTownNameCasing/bin/Debug/netcoreapp2.0/ChangeTownNameCasing.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChangeTownNameCasing" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ChangeTownNameCasing/ChangeTownNameCasing.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+    <configuration name="InitialSetup" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/InitialSetup/bin/Debug/netcoreapp2.0/InitialSetup.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InitialSetup" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/InitialSetup/InitialSetup.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="MinionNames" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/MinionNames/bin/Debug/netcoreapp2.0/MinionNames.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MinionNames" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MinionNames/MinionNames.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="VillainNames" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/VillainNames/bin/Debug/netcoreapp2.0/VillainNames.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VillainNames" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VillainNames/VillainNames.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.InitialSetup" />
+      <item itemvalue=".NET Project.VillainNames" />
+      <item itemvalue=".NET Project.MinionNames" />
+      <item itemvalue=".NET Project.AddMinion" />
+      <item itemvalue=".NET Project.ChangeTownNameCasing" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.ChangeTownNameCasing" />
+        <item itemvalue=".NET Project.AddMinion" />
+        <item itemvalue=".NET Project.MinionNames" />
+        <item itemvalue=".NET Project.VillainNames" />
+        <item itemvalue=".NET Project.InitialSetup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0bb26a1-2199-408a-afd5-e390cd64b0e7" name="Default" comment="" />
+      <created>1530013067637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530013067637</updated>
+      <workItem from="1530013070748" duration="8183000" />
+      <workItem from="1530268544487" duration="928000" />
+      <workItem from="1530449351057" duration="4128000" />
+      <workItem from="1530454208799" duration="5848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19087000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="685" y="23" width="994" height="979" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.3295211" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50061053" side_tool="true" weight="0.4569161" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3446712" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32993197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10819328" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32993197" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.16596639" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39909297" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Stacktrace" order="7" weight="0.32993197" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="DotNet Exception Breakpoints">
+          <properties exception="System.Data.SqlClient.SqlException" displayValue="System.Data.SqlClient.SqlException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MinionNames/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <marker date="1530455036240" expanded="true" signature="6:62" ph="..." />
+            <marker date="1530455036240" expanded="true" signature="86:2334" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="106:2332" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="152:866" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="319:856" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="501:637" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="658:805" ph="{...}" />
+            <marker date="1530455036240" expanded="false" signature="947:1893" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1221:1883" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1372:1869" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1431:1534" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1559:1851" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1664:1804" ph="{...}" />
+            <marker date="1530455036240" expanded="false" signature="1980:2326" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="2163:2316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e13f78b8-f80e-46e6-a405-92b0d0df925b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InitialSetup/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InitialSetup/Configuration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e13f78b8-f80e-46e6-a405-92b0d0df925b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InitialSetup/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InitialSetup/Configuration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e13f78b8-f80e-46e6-a405-92b0d0df925b/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a495beb2-c758-4511-9318-eeb8e997f62e/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Nikolay/documents/softUni/DataBases/Advanced/Minions DB.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InitialSetup/Configuration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VillainNames/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InitialSetup/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MinionNames/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1530455036240" expanded="true" signature="6:62" ph="..." />
+            <marker date="1530455036240" expanded="true" signature="86:2334" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="106:2332" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="152:866" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="319:856" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="501:637" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="658:805" ph="{...}" />
+            <marker date="1530455036240" expanded="false" signature="947:1893" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1221:1883" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1372:1869" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1431:1534" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1559:1851" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="1664:1804" ph="{...}" />
+            <marker date="1530455036240" expanded="false" signature="1980:2326" ph="{...}" />
+            <marker date="1530455036240" expanded="true" signature="2163:2316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddMinion/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="65" column="85" selection-start-line="65" selection-start-column="85" selection-end-line="65" selection-end-column="85" />
+          <folding>
+            <marker date="1530531606115" expanded="true" signature="6:62" ph="..." />
+            <marker date="1530531606115" expanded="true" signature="83:4671" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="103:4669" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="149:1088" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="581:1078" ph="{...}" />
+            <marker date="1530531606115" expanded="false" signature="1194:1661" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="1434:1651" ph="{...}" />
+            <marker date="1530531606115" expanded="false" signature="1779:2581" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="1979:2250" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="2419:2571" ph="{...}" />
+            <marker date="1530531606115" expanded="false" signature="2668:3260" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="2849:3250" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="2988:3181" ph="{...}" />
+            <marker date="1530531606115" expanded="false" signature="3354:3701" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="3542:3691" ph="{...}" />
+            <marker date="1530531606115" expanded="false" signature="3782:4252" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="3942:4242" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="4078:4173" ph="{...}" />
+            <marker date="1530531606115" expanded="false" signature="4340:4663" ph="{...}" />
+            <marker date="1530531606115" expanded="true" signature="4510:4653" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChangeTownNameCasing/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="31" column="71" selection-start-line="31" selection-start-column="71" selection-end-line="31" selection-end-column="71" />
+          <folding>
+            <marker date="1530532658755" expanded="true" signature="6:134" ph="..." />
+            <marker date="1530532658755" expanded="true" signature="166:2888" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="186:2886" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="232:1094" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="405:1084" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="564:671" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="692:1034" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="1181:1808" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="1421:1771" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="1581:1757" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="1641:1739" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="1889:2256" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="2094:2246" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="2343:2880" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="2597:2870" ph="{...}" />
+            <marker date="1530532658755" expanded="true" signature="2735:2801" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PrintAllMinionNames/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1530533144811" expanded="true" signature="6:96" ph="..." />
+            <marker date="1530533144811" expanded="true" signature="111:1377" ph="{...}" />
+            <marker date="1530533144811" expanded="true" signature="149:1375" ph="{...}" />
+            <marker date="1530533144811" expanded="true" signature="366:939" ph="{...}" />
+            <marker date="1530533144811" expanded="true" signature="585:929" ph="{...}" />
+            <marker date="1530533144811" expanded="true" signature="636:776" ph="{...}" />
+            <marker date="1530533144811" expanded="true" signature="815:915" ph="{...}" />
+            <marker date="1530533144811" expanded="true" signature="980:1308" ph="{...}" />
+            <marker date="1530533144811" expanded="true" signature="1124:1298" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IncreaseMinionsAge/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+          <folding>
+            <marker date="1530533286990" expanded="true" signature="6:115" ph="..." />
+            <marker date="1530533286990" expanded="true" signature="130:2518" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="168:2516" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="504:2510" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="780:1232" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="831:971" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="1010:1218" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="1284:1960" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="2111:2500" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="2162:2302" ph="{...}" />
+            <marker date="1530533286990" expanded="true" signature="2341:2486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IncreaseAgeStoredProc/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+          <folding>
+            <marker date="1530533419149" expanded="true" signature="6:62" ph="..." />
+            <marker date="1530533419149" expanded="true" signature="77:947" ph="{...}" />
+            <marker date="1530533419149" expanded="true" signature="115:945" ph="{...}" />
+            <marker date="1530533419149" expanded="true" signature="272:939" ph="{...}" />
+            <marker date="1530533419149" expanded="true" signature="727:884" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RemoveVillain/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="31" column="79" selection-start-line="31" selection-start-column="79" selection-end-line="31" selection-end-column="79" />
+          <folding>
+            <marker date="1530534267146" expanded="true" signature="6:62" ph="..." />
+            <marker date="1530534267146" expanded="true" signature="87:2928" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="107:2926" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="153:1105" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="337:1095" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="496:601" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="622:1028" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="1189:1517" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="1368:1507" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="1604:1928" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="1765:1918" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="2012:2372" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="2203:2362" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="2457:2920" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="2636:2910" ph="{...}" />
+            <marker date="1530534267146" expanded="true" signature="2776:2842" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e13f78b8-f80e-46e6-a405-92b0d0df925b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
